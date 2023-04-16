@@ -1,2 +1,2 @@
-# habibu.github.io
+# mkabdullahi.github.io
 My personal site for the publishing of my portfolio
