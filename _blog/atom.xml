@@ -4,7 +4,7 @@ layout:feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>
-        Habibu Abdullahi's Blog 
+        MK Abdullahi's Blog 
     </title>
     <link href="habibu.github.io/blog/atom.xml" rel="self"/>
     <link href="http://habibu.github.io/blog" />
