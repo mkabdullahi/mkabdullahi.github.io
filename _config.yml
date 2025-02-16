@@ -1,2 +1,10 @@
 name: MSc. Habibu Abdullahi
 markdown: kramdown
+menu:
+  - title: "Home"
+    url: "/"
+  - title: "About Me"
+    url: "/_about/"
+  - title: "My Resume"
+    url: "/_cv/"
+ 
