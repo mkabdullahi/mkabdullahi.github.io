@@ -266,3 +266,9 @@ footer {
   bottom: 0;
   width: 100%;
 }
+#logo_style {
+  position: absolute;
+  top: 50;
+  padding-left: 77%; 
+  border: 0;
+}
